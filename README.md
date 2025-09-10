@@ -1,14 +1,14 @@
-\# s2-mvp-management
+# s2-mvp-management
 
 Projeto contendo todas as partes da entrega do segundo MVP de Gestão de Projetos Ágeis.
 
 
 
-\## Links
+## Links
 
-\- \[Lean Inception](miro/lean-inception.txt)
+- [Lean Inception](miro/lean-inception.txt)
 
 
 
-\## Referências
+## Referências
 
