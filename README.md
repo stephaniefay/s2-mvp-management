@@ -7,7 +7,7 @@ Projeto contendo todas as partes da entrega do segundo MVP de Gestão de Projeto
 ## Links
 
 - [Lean Inception](miro/lean-inception.txt)
-
+- [JIRA](jira/board.txt)
 
 
 ## Referências
