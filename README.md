@@ -11,5 +11,6 @@ Projeto contendo todas as partes da entrega do MVP de Gestão de Projetos Ágeis
 * [Visualização JIRA](jira/README.md)
 * [URL board JIRA](jira/board.txt)
 * [Product Backlog](product-backlog.pdf)
+* [Sprint Backlog](sprint-backlog.pdf)
 * [Wireframes Figma](wireframes/README.md)
 * [URL Figma](wireframes/design.txt) ([URL externa](https://www.figma.com/design/kCaRnlyy28fuWUkKhBt5Hc/s2-mvp-management?node-id=0-1&t=Hz8JgtvpVmkFapN8-1))
