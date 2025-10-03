@@ -14,4 +14,3 @@ Projeto contendo todas as partes da entrega do MVP de Gestão de Projetos Ágeis
 * [Sprint Backlog](sprint-backlog.pdf)
 * [Wireframes Figma](wireframes/README.md)
 * [URL Figma](wireframes/design.txt) ([URL externa](https://www.figma.com/design/kCaRnlyy28fuWUkKhBt5Hc/s2-mvp-management?node-id=0-1&t=Hz8JgtvpVmkFapN8-1))
-* [Video Apresentação do Projeto (YouTube)](https://www.youtube.com/watch?v=o3KVFVYZ4-0)
